@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "beef idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "beef left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "beef down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				87
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "beef up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				2
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "beef right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				285,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beef left0"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "beef down0"
+		},
+		{
+			"offsets": [
+				-51,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "beef up0"
+		},
+		{
+			"offsets": [
+				-53,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "beef right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				30
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "beef YA!",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anonymon_bf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "beef",
+	"flip_x": true,
+	"healthbar_colors": [
+		140,
+		155,
+		209
+	],
+	"camera_position": [
+		20,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

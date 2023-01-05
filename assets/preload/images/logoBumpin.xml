@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logogogoggahagagagag0000" x="10" y="10" width="896" height="414" pivotX="46.8" pivotY="15.55" frameX="-48" frameY="-22" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0001" x="10" y="449" width="973" height="449" frameX="-9" frameY="-4" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0002" x="10" y="449" width="973" height="449" frameX="-9" frameY="-4" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0003" x="10" y="923" width="992" height="457"/>
+	<SubTexture name="logogogoggahagagagag0004" x="10" y="923" width="992" height="457"/>
+	<SubTexture name="logogogoggahagagagag0005" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0006" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0007" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0008" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0009" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0010" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0011" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0012" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0013" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+	<SubTexture name="logogogoggahagagagag0014" x="10" y="1405" width="925" height="427" frameX="-33" frameY="-15" frameWidth="992" frameHeight="457"/>
+</TextureAtlas>

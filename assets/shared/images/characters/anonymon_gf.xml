@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anonymon_gf.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="geef bop left0000" x="5" y="5" width="440" height="475" frameX="-11" frameY="-1" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0001" x="450" y="5" width="423" height="475" frameX="-28" frameY="-1" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0002" x="878" y="5" width="435" height="476" frameX="-16" frameY="0" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0003" x="1318" y="5" width="451" height="476" frameX="0" frameY="0" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0004" x="1774" y="5" width="450" height="476" frameX="-6" frameY="0" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0005" x="1774" y="5" width="450" height="476" frameX="-6" frameY="0" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0006" x="2229" y="5" width="449" height="474" frameX="-9" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0007" x="2683" y="5" width="453" height="475" frameX="-9" frameY="-1" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0008" x="3141" y="5" width="454" height="475" frameX="-8" frameY="-1" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0009" x="3141" y="5" width="454" height="475" frameX="-8" frameY="-1" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0010" x="3600" y="5" width="452" height="474" frameX="-10" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0011" x="3600" y="5" width="452" height="474" frameX="-10" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0012" x="5" y="486" width="451" height="474" frameX="-11" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0013" x="461" y="486" width="451" height="474" frameX="-11" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop left0014" x="461" y="486" width="451" height="474" frameX="-11" frameY="-2" frameWidth="462" frameHeight="476"/>
+	<SubTexture name="geef bop right0000" x="917" y="486" width="428" height="460" frameX="-28" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0001" x="917" y="486" width="428" height="460" frameX="-28" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0002" x="1350" y="486" width="440" height="460" frameX="-16" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0003" x="1795" y="486" width="456" height="460" frameX="0" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0004" x="2256" y="486" width="447" height="460" frameX="-6" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0005" x="2256" y="486" width="447" height="460" frameX="-6" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0006" x="2708" y="486" width="449" height="460" frameX="-9" frameY="-14" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0007" x="3162" y="486" width="451" height="471" frameX="-9" frameY="-3" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0008" x="3618" y="486" width="452" height="471" frameX="-8" frameY="-3" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0009" x="3618" y="486" width="452" height="471" frameX="-8" frameY="-3" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0010" x="5" y="965" width="451" height="474" frameX="-10" frameY="0" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0011" x="5" y="965" width="451" height="474" frameX="-10" frameY="0" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0012" x="461" y="965" width="450" height="474" frameX="-11" frameY="0" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0013" x="916" y="965" width="450" height="474" frameX="-11" frameY="0" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef bop right0014" x="916" y="965" width="450" height="474" frameX="-11" frameY="0" frameWidth="461" frameHeight="474"/>
+	<SubTexture name="geef cheer0000" x="1371" y="965" width="443" height="490" frameX="-28" frameY="0" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0001" x="1819" y="965" width="455" height="490" frameX="-16" frameY="0" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0002" x="2279" y="965" width="471" height="485" frameX="0" frameY="-6" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0003" x="2755" y="965" width="465" height="485" frameX="-6" frameY="-6" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0004" x="3225" y="965" width="467" height="477" frameX="-6" frameY="-13" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0005" x="5" y="1460" width="464" height="477" frameX="-9" frameY="-13" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0006" x="474" y="1460" width="464" height="474" frameX="-9" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0007" x="943" y="1460" width="465" height="474" frameX="-8" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0008" x="943" y="1460" width="465" height="474" frameX="-8" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0009" x="1413" y="1460" width="463" height="474" frameX="-10" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0010" x="1413" y="1460" width="463" height="474" frameX="-10" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0011" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0012" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0013" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0014" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0015" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0016" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0017" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0018" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0019" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0020" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0021" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0022" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0023" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0024" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0025" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0026" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0027" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0028" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0029" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0030" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0031" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0032" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0033" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0034" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0035" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0036" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0037" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0038" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0039" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0040" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0041" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0042" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0043" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0044" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0045" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0046" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0047" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0048" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0049" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0050" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0051" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0052" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0053" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0054" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0055" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0056" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0057" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0058" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0059" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0060" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0061" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0062" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0063" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0064" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0065" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0066" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0067" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0068" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0069" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0070" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef cheer0071" x="1881" y="1460" width="462" height="474" frameX="-11" frameY="-16" frameWidth="473" frameHeight="491"/>
+	<SubTexture name="geef erm...0000" x="2348" y="1460" width="435" height="475" frameX="0" frameY="-3" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0001" x="2348" y="1460" width="435" height="475" frameX="0" frameY="-3" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0002" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0003" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0004" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0005" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0006" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0007" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0008" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0009" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0010" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0011" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0012" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0013" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0014" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0015" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0016" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0017" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0018" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0019" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0020" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0021" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0022" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0023" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0024" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0025" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0026" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0027" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0028" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0029" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0030" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0031" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0032" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0033" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0034" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0035" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0036" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0037" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0038" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0039" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0040" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0041" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0042" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0043" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0044" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0045" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0046" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0047" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0048" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0049" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0050" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0051" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0052" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0053" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0054" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0055" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0056" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0057" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0058" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0059" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0060" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0061" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0062" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0063" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0064" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0065" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0066" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0067" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0068" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0069" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0070" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0071" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0072" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0073" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0074" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0075" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0076" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0077" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0078" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+	<SubTexture name="geef erm...0079" x="2788" y="1460" width="433" height="478" frameX="0" frameY="0" frameWidth="435" frameHeight="478"/>
+</TextureAtlas>

@@ -1,0 +1,72 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				31
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "beef DIES",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				38
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "beef REMAINS DEAD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				172
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "beef LIVES",
+			"indices": []
+		},
+		{
+			"offsets": [
+				210,
+				170
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm-loop",
+			"indices": [
+				28,
+				29,
+				30,
+				31
+			],
+			"name": "beef LIVES"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anonymon_bf",
+	"position": [
+		0,
+		110
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-200,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

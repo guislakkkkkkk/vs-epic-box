@@ -1,0 +1,50 @@
+{
+	"storyName": "rare wubbox",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "wub",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Growth",
+			"rare-wubbox",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Psychedelic",
+			"rare-wubbox",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Underling",
+			"rare-wubbox",
+			[
+				255,
+				140,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"rushedbox",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Rare Wubbox"
+}

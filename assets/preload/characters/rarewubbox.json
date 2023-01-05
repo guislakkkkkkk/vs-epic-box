@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				121,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Wubbox idle"
+		},
+		{
+			"offsets": [
+				398,
+				146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wubbox Left"
+		},
+		{
+			"offsets": [
+				230,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wubbox Down"
+		},
+		{
+			"offsets": [
+				90,
+				412
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wubbox Up"
+		},
+		{
+			"offsets": [
+				80,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wubbox Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				121,
+				173
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Wubbox idle",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rare_Wubbox_Remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rare-wubbox",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
